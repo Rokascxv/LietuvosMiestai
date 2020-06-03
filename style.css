@@ -145,7 +145,7 @@ p:hover {
 img{
     width: 30%;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px #006666;
+    box-shadow: 2px 2px 5px #32CD32;
     transition: 0.3s;
 }
 img:hover {
